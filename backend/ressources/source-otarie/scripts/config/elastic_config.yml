@@ -1,0 +1,9 @@
+elastic:
+    host: 10.140.48.135,10.140.48.135
+    port: 9200
+    INDEX: 'xs'
+    TYPE: 'application/json'
+    mapping: '/home/linuxmint/DEX_QSM/qqq/scripts/config/mapping.json'
+
+
+    

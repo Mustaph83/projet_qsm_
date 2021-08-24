@@ -1,0 +1,18 @@
+source:
+    connection_type: 'ssh'
+    host: '10.168.200.200'
+    port: 22
+    username: 'ossuser'
+    password: 'Changeme_12'
+    ssh_key: ''
+    directory: '/opt/oss/server/var/fileint/pm/pmexport_date/'
+    date: 'today'
+    format: '%Y%m%d'
+    pattern_to_copy: '^[1-zA-Z]+[0-9]+_[a-zA-Z]+_[0-9]+_30_[0-9]+_[0-9]+\.xml'
+    pattern_not_copy: ^[1-zA-Z]+[0-9]+_[a-zA-Z]+_[0-9]+_30_[0-9]+_[0-9]+13653022.xml
+destination:
+    directory: '/home/linuxmint/DEX_QSM/u2020_others_30/data'
+    parse_dir: '/home/linuxmint/DEX_QSM/u2020_others_30/parseDir'
+
+
+

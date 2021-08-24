@@ -1,0 +1,9 @@
+elastic:
+    host: '10.140.48.135,10.140.48.135'
+    port: 9200
+    INDEX: 'u2020_other_30'
+    TYPE: 'application/json'
+    mapping: '/mnt/c/Users/DELL/Documents/qsmApp/backend/src/traitement/../../ressources/u2020_others/config/mapping.json'
+
+
+    

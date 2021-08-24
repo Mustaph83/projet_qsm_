@@ -1,0 +1,20 @@
+source:
+        connection_type: 'ssh'
+        host : '10.100.29.24'
+        port: 22
+        username : 'taboure028217'
+        password: 'taboure@028217'
+        ssh_key: ''
+        directory: '/orange/Coral/'
+        date: ''
+        format: ''
+        pattern_file: '^[a-zA-Z]+_([0-9]+(_[0-9]+)+)+_SMC_+([a-zA-Z]+(_[a-zA-Z]+)+)\.csv$'
+        
+
+
+destination:
+        directory: '/home/sgsn/DEX_QSM/Otarie/source1/data/'
+
+
+
+

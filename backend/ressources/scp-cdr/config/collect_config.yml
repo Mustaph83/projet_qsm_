@@ -1,0 +1,21 @@
+source:
+        connection_type: 'ssh'
+        host : '##############'
+        port: 22
+        username : '############'
+        password: '#############'
+        ssh_key: ''
+        directory: '################'
+        pattern_directory: '^/[a-zA-Z]+_[a-zA-Z]+/[a-zA-Z]+[0-9]+bak/$'
+        date: 'today'
+        format: '%Y%m%d'
+        pattern_file: '^[a-zA-Z]+[0-9]+_G_[0-9]+_[0-9]+_[0-9]+\.r$'
+        parse_dir: 'C:\Users\stg_mbaye56279\Documents\in_vas\'
+
+
+destination:
+        directory: 'C:\Users\stg_mbaye56279\Documents\in_vas\data\'
+
+
+
+

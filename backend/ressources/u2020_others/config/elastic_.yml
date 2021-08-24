@@ -1,0 +1,9 @@
+elastic:
+    host: '10.140.48.135'
+    port: 9200
+    INDEX: 'u2020_others_30'
+    TYPE: 'application/json'
+    mapping: '/home/sgsn/DEX_QSM/U2020/PS/u2020_5/scripts/parseur/config/mapping.json'
+
+
+    

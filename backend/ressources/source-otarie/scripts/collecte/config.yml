@@ -1,0 +1,21 @@
+source:
+    connection_type: 'xx'
+    host: 'ss'
+    port: 22
+    username: 'sx'
+    password: 'sss'
+    ssh_key: ''
+    directory: 'sxsx'
+    dir_arch: '/home/sgsn/DEX_QSM/Otarie/source1/arch/'
+    date: '2021-08-09'
+    format: 'zxxs'
+    pattern_file: 'sx'
+
+
+destination:
+    directory: '/home/linuxmint/DEX_QSM/qqq/data'
+    parse_dir: '/home/linuxmint/DEX_QSM/qqq/parseDir'
+
+
+
+

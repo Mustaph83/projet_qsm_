@@ -1,0 +1,9 @@
+in:
+  path: 'C:\Users\DELL\Documents\in_vas\in_vas\INCDR\SCP\'
+  sep: '|'
+  skiprows: 1
+  chunksize: 10000
+  index: '2,3,4,5,6'
+  index_name: 'service key,called number,calling number,startTime,stopTime'
+  date_field: 'startTime,stopTime'
+  format_list: '%Y%m%d %H%M%S'

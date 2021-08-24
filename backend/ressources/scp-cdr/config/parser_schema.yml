@@ -1,0 +1,10 @@
+in:
+  path: str()
+  sep: str()
+  skiprows: int()
+  chunksize: int()
+  index: str()
+  index_name: str()
+  date_field: str()
+  format_list: str()
+

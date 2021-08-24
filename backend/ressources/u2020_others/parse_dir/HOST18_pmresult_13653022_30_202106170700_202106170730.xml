@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mdc SYSTEM "MeasDataCollection.dtd"><mdc>
+<mfh>
+<cbt>202106170700</cbt>
+</mfh>
+<md>
+<mi>
+<mts>202106170700</mts>
+<gp>30</gp>
+<mt>CPU average usage</mt>
+<mt>CPU max usage</mt>
+<mt>CPU usage</mt>
+<mv>
+<moid>DC_CloudCG01/VM:nodeName=VNFP, VM Name=SPU_G_0067</moid>
+<r>8</r>
+<r>9</r>
+<r>8</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCG01/VM:nodeName=VNFP, VM Name=SPU_G_0066</moid>
+<r>7</r>
+<r>7</r>
+<r>7</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCG01/VM:nodeName=VNFP, VM Name=IPU_A_0065</moid>
+<r>21</r>
+<r>22</r>
+<r>22</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCG01/VM:nodeName=VNFP, VM Name=IPU_A_0064</moid>
+<r>22</r>
+<r>23</r>
+<r>22</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCG01/VM:nodeName=VNFP, VM Name=dc2_CloudCG01_OMU_1</moid>
+<r>9</r>
+<r>10</r>
+<r>9</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCG01/VM:nodeName=VNFP, VM Name=dc2_CloudCG01_OMU_0</moid>
+<r>10</r>
+<r>12</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0081</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0080</moid>
+<r>14</r>
+<r>15</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0079</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0078</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0077</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0076</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0075</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0074</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0073</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0072</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0071</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0070</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0069</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0068</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0067</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0064</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=dc2_CloudDGW01_OMU_1</moid>
+<r>26</r>
+<r>29</r>
+<r>27</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=dc2_CloudDGW01_OMU_0</moid>
+<r>30</r>
+<r>32</r>
+<r>30</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=SDU_A_0091</moid>
+<r>14</r>
+<r>15</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=SDU_A_0090</moid>
+<r>17</r>
+<r>18</r>
+<r>17</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=SDU_A_0089</moid>
+<r>14</r>
+<r>15</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=IPU_B_0088</moid>
+<r>31</r>
+<r>33</r>
+<r>32</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=IPU_B_0087</moid>
+<r>32</r>
+<r>34</r>
+<r>33</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0086</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0085</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0084</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0083</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0082</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=SPU_J_0093</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW01/VM:nodeName=VNFP, VM Name=SPU_J_0092</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0077</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0076</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0075</moid>
+<r>16</r>
+<r>17</r>
+<r>17</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0074</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0073</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0072</moid>
+<r>16</r>
+<r>17</r>
+<r>17</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0071</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0070</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0069</moid>
+<r>9</r>
+<r>10</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0068</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0067</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0066</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=IPU_A_0065</moid>
+<r>33</r>
+<r>35</r>
+<r>34</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=IPU_A_0064</moid>
+<r>35</r>
+<r>36</r>
+<r>35</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=dc2_CloudCGW01_OMU_1</moid>
+<r>20</r>
+<r>23</r>
+<r>21</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=dc2_CloudCGW01_OMU_0</moid>
+<r>25</r>
+<r>29</r>
+<r>25</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0081</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0080</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_J_0079</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_J_0078</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_P_0097</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_P_0096</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_P_0095</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0094</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0093</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0092</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0091</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0090</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0089</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0088</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0087</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0086</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0085</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0084</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0083</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0082</moid>
+<r>10</r>
+<r>10</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0081</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0080</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0079</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0078</moid>
+<r>11</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0077</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0076</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0075</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0074</moid>
+<r>11</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0073</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0072</moid>
+<r>6</r>
+<r>7</r>
+<r>7</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0071</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0070</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0069</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0068</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0067</moid>
+<r>8</r>
+<r>9</r>
+<r>8</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=IPU_A_0066</moid>
+<r>24</r>
+<r>25</r>
+<r>24</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=IPU_A_0065</moid>
+<r>22</r>
+<r>22</r>
+<r>22</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=IPU_A_0064</moid>
+<r>23</r>
+<r>24</r>
+<r>24</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=dc2_CloudUSN01_OMU_1</moid>
+<r>23</r>
+<r>26</r>
+<r>23</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=dc2_CloudUSN01_OMU_0</moid>
+<r>27</r>
+<r>33</r>
+<r>26</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0103</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0102</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0101</moid>
+<r>10</r>
+<r>10</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_J_0100</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_J_0099</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_J_0098</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0081</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0080</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0079</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0077</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0076</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0075</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0074</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0073</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0072</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0071</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0070</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0069</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0068</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0067</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0066</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0065</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=dc2_CloudDGW02_OMU_1</moid>
+<r>23</r>
+<r>26</r>
+<r>24</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=dc2_CloudDGW02_OMU_0</moid>
+<r>31</r>
+<r>35</r>
+<r>32</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=SDU_A_0091</moid>
+<r>15</r>
+<r>16</r>
+<r>15</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=SDU_A_0090</moid>
+<r>15</r>
+<r>16</r>
+<r>15</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=SDU_A_0089</moid>
+<r>17</r>
+<r>18</r>
+<r>18</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=IPU_B_0088</moid>
+<r>33</r>
+<r>34</r>
+<r>33</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=IPU_B_0087</moid>
+<r>33</r>
+<r>34</r>
+<r>33</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0086</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0085</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0084</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0083</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0082</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=SPU_J_0093</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>DC_CloudDGW02/VM:nodeName=VNFP, VM Name=SPU_J_0092</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_P_0097</moid>
+<r>13</r>
+<r>13</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_P_0096</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_P_0095</moid>
+<r>13</r>
+<r>13</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0094</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0093</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0092</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0091</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0090</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0089</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0088</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0087</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0086</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0085</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0084</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0083</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0082</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0081</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0080</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0079</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0078</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0077</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0076</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0075</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0074</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0073</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0072</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0071</moid>
+<r>6</r>
+<r>7</r>
+<r>7</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0070</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0069</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0068</moid>
+<r>6</r>
+<r>6</r>
+<r>6</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SDU_A_0067</moid>
+<r>5</r>
+<r>6</r>
+<r>5</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=IPU_A_0066</moid>
+<r>24</r>
+<r>25</r>
+<r>24</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=IPU_A_0065</moid>
+<r>23</r>
+<r>24</r>
+<r>23</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=IPU_A_0064</moid>
+<r>23</r>
+<r>24</r>
+<r>23</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=dc1_CloudUSN01_OMU_1</moid>
+<r>30</r>
+<r>33</r>
+<r>32</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=dc1_CloudUSN01_OMU_0</moid>
+<r>23</r>
+<r>26</r>
+<r>24</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_J_0103</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_J_0102</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_J_0101</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0100</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_O_0099</moid>
+<r>13</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudUSN01/VM:nodeName=VNFP, VM Name=SPU_B_0098</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0077</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0076</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0075</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0074</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0073</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0072</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0071</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0070</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0069</moid>
+<r>9</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0068</moid>
+<r>9</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0067</moid>
+<r>9</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0066</moid>
+<r>13</r>
+<r>14</r>
+<r>13</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=IPU_A_0065</moid>
+<r>35</r>
+<r>36</r>
+<r>35</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=IPU_A_0064</moid>
+<r>34</r>
+<r>35</r>
+<r>34</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=dc1_CloudCGW01_OMU_1</moid>
+<r>24</r>
+<r>28</r>
+<r>24</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=dc1_CloudCGW01_OMU_0</moid>
+<r>21</r>
+<r>24</r>
+<r>22</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_J_0081</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_J_0080</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SDU_A_0079</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCGW01/VM:nodeName=VNFP, VM Name=SPU_CGW_0078</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0083</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0082</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0081</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0080</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0079</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=SDU_A_0078</moid>
+<r>17</r>
+<r>18</r>
+<r>17</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=SDU_A_0077</moid>
+<r>16</r>
+<r>17</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=SDU_A_0076</moid>
+<r>14</r>
+<r>15</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=IPU_B_0075</moid>
+<r>32</r>
+<r>33</r>
+<r>33</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=IPU_B_0074</moid>
+<r>32</r>
+<r>34</r>
+<r>33</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0073</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0072</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0071</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0070</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0069</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0068</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0067</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0066</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0065</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0064</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=dc1_CloudDGW01_OMU_1</moid>
+<r>28</r>
+<r>31</r>
+<r>31</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=dc1_CloudDGW01_OMU_0</moid>
+<r>27</r>
+<r>29</r>
+<r>27</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0091</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0090</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0089</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0088</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0087</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=ISU_0084</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=SPU_J_0086</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW01/VM:nodeName=VNFP, VM Name=SPU_J_0085</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0081</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0080</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0079</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0078</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0077</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0076</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0075</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0074</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0073</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0072</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0071</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0070</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0069</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0068</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0067</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0065</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0064</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=dc1_CloudDGW02_OMU_1</moid>
+<r>29</r>
+<r>32</r>
+<r>31</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=dc1_CloudDGW02_OMU_0</moid>
+<r>26</r>
+<r>29</r>
+<r>27</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=SDU_A_0091</moid>
+<r>15</r>
+<r>16</r>
+<r>16</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=SDU_A_0090</moid>
+<r>14</r>
+<r>15</r>
+<r>15</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=SDU_A_0089</moid>
+<r>14</r>
+<r>15</r>
+<r>15</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=IPU_B_0088</moid>
+<r>31</r>
+<r>32</r>
+<r>32</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=IPU_B_0087</moid>
+<r>32</r>
+<r>33</r>
+<r>32</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0086</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0085</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0083</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=ISU_0082</moid>
+<r>14</r>
+<r>14</r>
+<r>14</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=SPU_J_0066</moid>
+<r>10</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudDGW02/VM:nodeName=VNFP, VM Name=SPU_J_0084</moid>
+<r>10</r>
+<r>11</r>
+<r>11</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCG01/VM:nodeName=VNFP, VM Name=SPU_G_0067</moid>
+<r>7</r>
+<r>8</r>
+<r>7</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCG01/VM:nodeName=VNFP, VM Name=SPU_G_0066</moid>
+<r>8</r>
+<r>8</r>
+<r>8</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCG01/VM:nodeName=VNFP, VM Name=IPU_A_0065</moid>
+<r>22</r>
+<r>23</r>
+<r>22</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCG01/VM:nodeName=VNFP, VM Name=IPU_A_0064</moid>
+<r>22</r>
+<r>23</r>
+<r>22</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCG01/VM:nodeName=VNFP, VM Name=dc1_CloudCG01_OMU_1</moid>
+<r>9</r>
+<r>11</r>
+<r>10</r>
+<sf>false</sf>
+</mv>
+<mv>
+<moid>MED_CloudCG01/VM:nodeName=VNFP, VM Name=dc1_CloudCG01_OMU_0</moid>
+<r>9</r>
+<r>10</r>
+<r>9</r>
+<sf>false</sf>
+</mv>
+</mi>
+</md>
+<mff>
+<ts>202106170730</ts>
+</mff>
+</mdc>

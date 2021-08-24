@@ -1,0 +1,61 @@
+{
+    "mappings":{
+        "properties":{
+             "Node":{
+                "type":"keyword"
+            },
+
+             "nodeType":{
+                "type":"keyword"
+            },
+            "Object_Name_Type":{
+                "type":"keyword"
+            },
+
+             "Prop_ObjectName_0": {
+                "type": "keyword"
+            },
+
+             "Prop_ObjectName_5": {
+                "type": "keyword"
+            },
+             "Prop_ObjectName_4": {
+                "type": "keyword"
+            },
+            
+             "Prop_ObjectName_3": {
+                "type": "keyword"
+            },
+             "Prop_ObjectName_2": {
+                "type": "keyword"
+            },
+             "Prop_ObjectName_1": {
+                "type": "keyword"
+            },
+
+            "counter_Name":{
+                "type":"keyword"
+            },
+            
+            "date":{
+                "type":"date"
+            },
+            
+            "counter_Value":{
+                "type":"float"
+            },
+            
+            "Nullable":{
+               "type":"keyword"
+            },
+            
+           
+            "Period":{
+                "type":"keyword"
+            },
+             "filename":{
+                "type":"keyword"
+            }
+        }
+     } 
+ }

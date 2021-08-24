@@ -1,0 +1,12 @@
+{
+    "mappings": {
+        "properties": {
+            "startTime": {
+                "type": "date" # formerly "string"
+            },
+            "stopTime": {
+                "type": "date"
+            }
+        }
+    }
+}

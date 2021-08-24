@@ -1,0 +1,6 @@
+csv:
+    separateur: "xzxsx"
+    chunksize: 10000
+    column_to_convert: 'sxsxs'
+    directory: '/home/linuxmint/DEX_QSM/qqq/parseDir'
+    archive_directory: '/home/linuxmint/DEX_QSM/qqq/archive'

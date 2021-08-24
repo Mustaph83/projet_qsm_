@@ -1,0 +1,50 @@
+{
+    "mappings": {
+        "properties": {
+            "startTime": {
+                "type": "date"
+            
+            },
+            "stopTime": {
+                "type": "date"
+               
+            },
+            "CDNProvider": {
+                "type": "keyword"
+            },
+            "SGSNAddr":{
+                "type": "keyword"
+            },
+            "TLSProt":{
+                "type": "keyword"
+            },
+            "cust":{
+                "type": "keyword"
+            },
+            "dstAddr":{
+                "type": "keyword"
+            },
+            "fingerprint": {
+                "type": "keyword"
+            },
+            "hostName": {
+                "type": "keyword"
+            },
+            "locEnd":{
+                 "type": "keyword"
+           },
+           "locStart":{
+                 "type": "keyword"
+           },
+           "servProvider":{
+                 "type": "keyword"
+           },
+           "srcAddr":{
+                 "type": "keyword"
+           },
+           "status":{
+                 "type": "keyword"
+           }
+        }
+    }
+}

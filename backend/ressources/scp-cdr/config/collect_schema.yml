@@ -1,0 +1,18 @@
+source:
+    connection_type: str()
+    host: str()
+    port: int(max=255)
+    username: str()
+    password: str()
+    ssh_key: str()
+    directory: str()
+    pattern_directory: str()
+    date: str()
+    format: str()
+    pattern_file: str()
+    parse_dir: str()
+
+destination:
+    directory: str()
+    
+

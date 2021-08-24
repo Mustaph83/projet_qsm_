@@ -1,0 +1,8 @@
+deployement:
+          folder: 'C:\Users\stg_mbaye56279\Documents\test\u2020\CS\cs\data\' 
+          sub_folders: 'SMC_GSM_Subscriber_Originated_Calls,SMC_GSM_Subscriber_Terminated_Calls,
+          SMC_UTRAN_Subscriber_Originated_Calls,SMC_UTRAN_Subscriber_Terminated_Calls,
+          SMC_Transit_Calls,SMC_Location_Management_Service,SMC_Paging,SMC_GSM_Assignment,
+          SMC_WCDMA_Assignment,SMC_SMS'
+
+

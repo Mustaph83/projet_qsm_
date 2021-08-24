@@ -1,0 +1,3 @@
+deployement:
+      folder: str()
+      sub_folders: str()

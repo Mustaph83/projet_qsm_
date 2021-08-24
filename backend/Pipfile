@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+sqlalchemy = "*"
+"psycopg2-binary" = "*"
+flask = "*"
+marshmallow = "*"
+flask-cors = "*"
+paramiko = "*"
+pyaml = "*"
+"ruamel.yaml" = "*"
+flask-jwt = "*"
+pyjwt = "==1.4.2"
+elasticsearch = "*"
+pandas = "*"
+numpy = "*"
+matplotlib = "*"
+bs4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

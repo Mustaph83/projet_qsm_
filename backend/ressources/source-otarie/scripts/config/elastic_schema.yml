@@ -1,0 +1,7 @@
+elastic:
+    host: str()
+    port: int()
+    INDEX: str()
+    TYPE: str()
+    mapping: str()
+    

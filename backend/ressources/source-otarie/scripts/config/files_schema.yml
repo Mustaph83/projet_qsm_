@@ -1,0 +1,12 @@
+csv:
+    host: str()
+    port: int(max=255)
+    username: str()
+    password: str()
+    pattern: str()
+    separateur: str()
+    chunksize: int()
+    colum_to_convert: str()
+    directory: str()
+    archive_directory: str()
+    

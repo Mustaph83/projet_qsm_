@@ -1,0 +1,8 @@
+elastic:
+    host: '10.140.48.136'
+    port: 9200
+    TYPE: 'application/json'
+    mapping: 'C:\Users\stg_mbaye56279\Documents\test\u2020\CS\cs\config\mapping.json'
+
+
+    
